@@ -1,0 +1,23 @@
+{
+  "repo": "figma-desktop-full",
+  "product": "Figma Desktop Full",
+  "kind": "creative",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "ui-design",
+  "topics": [
+    "figma-desktop",
+    "component-variant-desk",
+    "inspect-handoff-windows",
+    "figma-2026",
+    "how-to-install-figma",
+    "figma-desktop-package",
+    "token-lib-suite",
+    "comment-pin-tools",
+    "product-design-studio",
+    "figma-studio-edition"
+  ],
+  "site": "toolix.me"
+}
